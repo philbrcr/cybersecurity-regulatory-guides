@@ -1,0 +1,4 @@
+Data Source/Origin,Data Category,Purpose of Processing,Legal Basis,Retention Period,Storage Location,Access Controls,Data Sharing/Recipients,Processing Tools/Systems,Security Measures,Data Subject Rights Process,Data Breach Risk,Date of Last Review
+Website contact form,Name; Email; IP Address,Marketing newsletter,Consent,12 months,AWS Cloud (EU region),Admin role only,HubSpot (CRM provider),HubSpot CRM; Google Analytics,AES-256 encryption; MFA,Contact DPO via privacy email,Medium,2024-07-17
+Customer support emails,Name; Email; Query content,Customer support,Contract,6 months,Internal servers,Support team only,None,Outlook email server,Role-based access; Backups,Contact DPO via privacy email,Low,2024-07-17
+Analytics tools,IP Address; Behavior data,Website analytics,Consent,3 months,Google Cloud (EU region),Analytics team only,Google Analytics,Google Analytics tool,Anonymization,Contact DPO via privacy email,Low,2024-07-17
