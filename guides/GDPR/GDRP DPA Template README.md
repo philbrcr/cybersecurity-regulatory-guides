@@ -1,4 +1,4 @@
-# **GDPR Data Processing Agreement (DPA) Template** 
+# **GDPR Data Processing Agreement (DPA) Template README** 
 ## Overview:
 
 A **Data Processing Agreement (DPA)** is a contractual document required under GDPR when a controller (the organization collecting personal data) works with processors (third-party vendors) that process personal data on their behalf. This template helps organizations create a standardized DPA, ensuring compliance with GDPR requirements.
