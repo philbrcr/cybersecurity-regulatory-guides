@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-The **[General Data Protection Regulation (GDPR)](https://gdpr.eu/)** is a data privacy law that protects the personal data of individuals in the **[European Union (EU)](https://european-union.europa.eu/index_en)** and the **European Economic Area (EEA)(https://en.wikipedia.org/wiki/European_Economic_Area)**. It applies to any organization, regardless of location, that processes or stores data of EU residents.
+The **[General Data Protection Regulation (GDPR)](https://gdpr.eu/)** is a data privacy law that protects the personal data of individuals in the **[European Union (EU)](https://european-union.europa.eu/index_en)** and the **[European Economic Area (EEA)](https://en.wikipedia.org/wiki/European_Economic_Area)**. It applies to any organization, regardless of location, that processes or stores data of EU residents.
 
 The regulation aims to:
 
