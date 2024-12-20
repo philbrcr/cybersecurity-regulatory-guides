@@ -1,4 +1,4 @@
-# **GDPR Data Mapping Template**
+# **GDPR Data Mapping Template README**
 
 ## Overview
 
