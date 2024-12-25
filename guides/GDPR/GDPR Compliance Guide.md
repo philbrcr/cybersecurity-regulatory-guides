@@ -14,6 +14,33 @@ Non-compliance can result in severe fines—up to **€20 million** or **4% of a
 
 ---
 
+## EU Data Protection Authorities
+
+EU Data Protection Authorities (DPAs) are independent public authorities established in each EU member state to oversee the enforcement of data protection laws, including the General Data Protection Regulation (GDPR). Their key responsibilities include:
+
+### Supervision and Enforcement:
+
+Ensuring compliance with GDPR and other national data protection laws.
+Investigating complaints from individuals regarding data protection violations.
+Conducting audits and inspections of organizations processing personal data.
+
+### Guidance and Awareness:
+
+Providing advice and guidance to organizations and individuals on data protection compliance.
+Raising awareness about privacy rights and data protection.
+
+### Collaboration and Cooperation:
+
+Working with other DPAs across the EU through the European Data Protection Board (EDPB) to ensure consistent application of GDPR.
+Engaging in mutual assistance and joint operations for cross-border cases.
+
+### Sanctions and Penalties:
+
+Issuing warnings, reprimands, or fines for non-compliance with GDPR.
+Ordering organizations to take specific actions, such as halting unlawful data processing.
+
+---
+
 ## Who It Applies To
 
 GDPR applies to any organization that:
@@ -157,69 +184,62 @@ A: A DPO is required if:
 ## **Resources**
 
 * **Official GDPR Regulation:** [GDPR.eu](https://gdpr.eu/)  
-* **GDPR Article Summaries:** \[Link to resource\]  
 * **EU Data Protection Authorities:** List of DPAs by country
 
----
-
-## **Conclusion**
-
-By following this guide, your organization can build a strong foundation for GDPR compliance, reduce the risk of penalties, and ensure trust with your customers.
-
-**Next Steps:**
-
-1. **Set up a folder** for `guides/gdpr` in your GitHub repository.  
-2. Update links.  
-3. Upload this document as `README.md`.
-
-# 
-
-# **GDPR Data Mapping Template** {#gdpr-data-mapping-template}
-
-| Field | Description | Example |
-| ----- | ----- | ----- |
-| **Data Source/Origin** | Where the data comes from (e.g., website forms, CRM systems, email). | Website contact form |
-| **Data Category** | Type of personal data collected (e.g., name, email, IP address, health data). | Name, Email, IP Address |
-| **Purpose of Processing** | Why is the data collected or processed (e.g., marketing, analytics, customer support)? | Marketing newsletter |
-| **Legal Basis** | Lawful basis under GDPR for processing (e.g., consent, contract, legal obligation). | Consent |
-| **Retention Period** | How long is the data stored before deletion or anonymization? | 12 months |
-| **Storage Location** | Where the data is stored (e.g., cloud provider, on-premises server, third-party platform). | AWS Cloud (EU region) |
-| **Access Controls** | Who can access the data, and how is it restricted (e.g., admin-only, role-based access)? | Admin role only |
-| **Data Sharing/Recipients** | Third parties or internal entities with whom the data is shared. | HubSpot (CRM provider) |
-| **Processing Tools/Systems** | Tools or software used to process/store the data (e.g., CRM tools, analytics platforms). | HubSpot CRM, Google Analytics |
-| **Security Measures** | Safeguards in place to protect the data (e.g., encryption, backups, MFA). | AES-256 encryption, MFA |
-| **Data Subject Rights Process** | How individuals can exercise their rights (e.g., access, erasure, portability). | Contact DPO via privacy email |
-| **Data Breach Risk** | Level of risk if this data is compromised (e.g., low, medium, high). | Medium |
-| **Date of Last Review** | When was the data mapping entry last updated or reviewed? | 2024-07-17 |
+| Country  				 | Data Protection Authority (DPA)  |
+|:----------|:----------|
+| Austria  				 | [Austrian Data Protection Authority (Datenschutzbehörde - DSB)](https://dsb.gv.at/)    |
+| Belgium  				 | [Data Protection Authority (Autorité de protection des données / Gegevensbeschermingsautoriteit)](https://www.autoriteprotectiondonnees.be/professionnel)    |
+| Bulgaria 				 | [Commission for Personal Data Protection (CPDP)](https://cpdp.bg/)  |
+| Croatia  				 | [Croatian Personal Data Protection Agency (Agencija za zaštitu osobnih podataka - AZOP)](https://azop.hr/)    |
+| Cyprus   				 | [Office of the Commissioner for Personal Data Protection](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/home_en/home_en?opendocument)    |
+| Czech Republic    	 | [Office for Personal Data Protection (Úřad pro ochranu osobních údajů - UOOU)](https://uoou.gov.cz/)    |
+| Denmark   			 | [Danish Data Protection Agency (Datatilsynet)](https://www.datatilsynet.dk/)    |
+| Estonia    			 | [Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon)](https://www.aki.ee/)    |
+| Finland   			 | [Office of the Data Protection Ombudsman (Tietosuojavaltuutetun toimisto)](https://tietosuoja.fi/)   |
+| France    			 | [National Commission on Informatics and Liberty (Commission Nationale de l'Informatique et des Libertés - CNIL)](https://www.cnil.fr/)   |
+|Germany 				 | 	[Federal Commissioner for Data Protection and Freedom of Information (BfDI) and state DPAs](https://www.bfdi.bund.de/) |
+| Greece				 | [Hellenic Data Protection Authority (Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα - HDPA)](https://www.dpa.gr/) |
+| Hungary				 | [National Authority for Data Protection and Freedom of Information (Nemzeti Adatvédelmi és Információszabadság Hatóság - NAIH)](https://www.naih.hu/) |
+| Ireland				 | [Data Protection Commission (DPC)](https://www.dataprotection.ie/) |
+| Italy					 | [Italian Data Protection Authority (Garante per la protezione dei dati personali)](https://www.garanteprivacy.it/) |
+| Latvia				 | [Data State Inspectorate (Datu valsts inspekcija)](https://www.dvi.gov.lv/)
+| Lithuania				 | [State Data Protection Inspectorate (Valstybinė duomenų apsaugos inspekcija)](https://vdai.lrv.lt/) |
+|Luxembourg				 | [National Commission for Data Protection (Commission Nationale pour la Protection des Données - CNPD)](https://cnpd.public.lu/) |
+| Malta					 | [Information and Data Protection Commissioner](https://idpc.org.mt/) |
+| Netherlands			 | [Dutch Data Protection Authority (Autoriteit Persoonsgegevens - AP)](https://www.autoriteitpersoonsgegevens.nl/) |
+| Poland				 | [Personal Data Protection Office (Urząd Ochrony Danych Osobowych - UODO)](https://uodo.gov.pl/) |
+| Portugal				 | [National Data Protection Commission (Comissão Nacional de Proteção de Dados - CNPD)](https://www.cnpd.pt/) |
+| Romania				 | [National Supervisory Authority for Personal Data Processing (Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal - ANSPDCP)](https://www.dataprotection.ro/) |
+| Slovakia				 | [Office for Personal Data Protection (Úrad na ochranu osobných údajov Slovenskej republiky)](https://dataprotection.gov.sk/sk/) |
+|Slovenia				 | [Information Commissioner (Informacijski pooblaščenec)](https://www.ip-rs.si/) |
+|Spain					 | [Spanish Data Protection Agency (Agencia Española de Protección de Datos - AEPD)](https://www.aepd.es/0) |
+|Sweden					 | [Swedish Authority for Privacy Protection (Integritetsskyddsmyndigheten - IMY)](https://www.imy.se/) |
 
 ---
 
-## How to Use This Template
+## Disclaimer
 
-1. **Set Up Your Spreadsheet**: Copy the column headers into spreadsheet software such as Google Sheets, Microsoft Excel, or CSV format.  
-2. **Populate Each Field**: Conduct a **data audit** and fill in each field for all the personal data your organization collects or processes.  
-3. **Review Regularly**: Set up a process to update this data mapping table periodically (e.g., every 6-12 months) and after major system changes.
+This repository is for informational purposes only and does not constitute legal or professional advice. Please consult the respective regulatory authorities or seek professional legal counsel for official guidance.
 
 ---
 
-## Example Table in CSV Format
+## About the Author
 
-`Data Source/Origin,Data Category,Purpose of Processing,Legal Basis,Retention Period,Storage Location,Access Controls,Data Sharing/Recipients,Processing Tools/Systems,Security Measures,Data Subject Rights Process,Data Breach Risk,Date of Last Review`  
-`Website contact form,Name; Email; IP Address,Marketing newsletter,Consent,12 months,AWS Cloud (EU region),Admin role only,HubSpot (CRM provider),HubSpot CRM; Google Analytics,AES-256 encryption; MFA,Contact DPO via privacy email,Medium,2024-07-17`  
-`Customer support emails,Name; Email; Query content,Customer support,Contract,6 months,Internal servers,Support team only,None,Outlook email server,Role-based access; Backups,Contact DPO via privacy email,Low,2024-07-17`  
-`Analytics tools,IP Address; Behavior data,Website analytics,Consent,3 months,Google Cloud (EU region),Analytics team only,Google Analytics,Google Analytics tool,Anonymization,Contact DPO via privacy email,Low,2024-07-17`
+**Ryan Philbrick, APR, CSM, SMS,** is an experienced communications and cybersecurity professional with a background in public affairs, stakeholder engagement, and strategic communications within high-profile organizations. He has held leadership roles in cybersecurity awareness campaigns, crisis communications, and engagement strategies across diverse industries, including government and private sectors.
+
+Ryan holds an active Top Secret/SCI clearance and has served as a Chief of Staff for various cybersecurity offices, managing large-scale security initiatives, strategic communications for federal contracts, and international affairs coordination. His comprehensive operations and PR/consulting training programs have improved team performance, while his strategic communications have expanded cybersecurity awareness and outreach globally.
+
+With degrees in International Affairs and Psychology and ongoing graduate work in International Relations at Harvard University, Ryan’s multidisciplinary approach ensures these guides are practical and globally minded.
 
 ---
 
-## Supporting Notes
+## License
 
-* Use the **Legal Basis** field to align with GDPR's 6 lawful bases:  
-  1. **Consent** (e.g., newsletter subscriptions)  
-  2. **Contract** (e.g., data needed to deliver services)  
-  3. **Legal Obligation** (e.g., tax data)  
-  4. **Vital Interests**  
-  5. **Public Task**  
-  6. **Legitimate Interests**  
-* Your data **Retention Periods** must match your policies. Be specific (e.g., “12 months” instead of “short term”).  
-* The **Data Breach Risk** field helps prioritize which datasets require stronger security measures.  
-* 
+This repository is licensed under the [MIT License](https://github.com/philbrcr/cybersecurity-regulatory-guides?tab=MIT-1-ov-file).
+
+---
+
+## Contact
+
+Do you have questions, ideas, or feedback? Connect with me on [LinkedIn](https://www.linkedin.com/in/christopherryanphilbrick) or open an issue in the repository.
