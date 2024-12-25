@@ -1,4 +1,4 @@
-# **Cybersecurity Regulatory Guide**
+# **Cybersecurity Regulatory Guides**
 
 ## Overview
 
@@ -33,11 +33,11 @@ The repository will include **step-by-step compliance guides** for the following
 
 | Regulation/Framework | Description | Folder |
 | ----- | ----- | ----- |
-| GDPR (General Data Protection Regulation) | Data privacy law for individuals in the EU | `guides/gdpr/` |
-| NIST 800-171 | Protecting Controlled Unclassified Information (CUI) | `guides/nist800-171/` |
-| CMMC (Cybersecurity Maturity Model Certification) | Compliance for DoD contractors | `guides/cmmc/` |
-| HIPAA (Health Insurance Portability and Accountability Act) | Healthcare data protection in the U.S. | `guides/HIPAA/` |
-| ISO 27001 | International standard for information security management | `guides/iso27001/` |
+| GDPR (General Data Protection Regulation) | Data privacy law for individuals in the EU | [guides/gdpr/](https://github.com/philbrcr/cybersecurity-regulatory-guides/tree/main/guides/GDPR) |
+| NIST 800-171 | Protecting Controlled Unclassified Information (CUI) | [guides/nist_800-171/](https://github.com/philbrcr/cybersecurity-regulatory-guides/tree/main/guides/NIST_800-171) |
+| CMMC (Cybersecurity Maturity Model Certification) | Compliance for DoD contractors | [guides/cmmc/](https://github.com/philbrcr/cybersecurity-regulatory-guides/tree/main/guides/CMMC) |
+| HIPAA (Health Insurance Portability and Accountability Act) | Healthcare data protection in the U.S. | [guides/HIPAA/](https://github.com/philbrcr/cybersecurity-regulatory-guides/tree/main/guides/HIPAA) |
+| ISO 27001 | International standard for information security management | [guides/ISO_27001/](https://github.com/philbrcr/cybersecurity-regulatory-guides/tree/main/guides/ISO_27001) |
 
 ---
 
