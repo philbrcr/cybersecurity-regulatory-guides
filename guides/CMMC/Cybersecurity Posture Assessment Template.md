@@ -223,5 +223,6 @@ Evaluate your organization’s efforts to build a cybersecurity-aware workforce.
 ## Next Steps
 
 Based on the results of this assessment, prioritize improvements in areas where your organization is **Partially Compliant** or **Non-Compliant**. Consider establishing a roadmap for compliance with relevant frameworks like **CMMC**, **NIST**, or **ISO 27001**.
-
-# 
+ 
+## Note:
+This template should be reviewed and adapted to fit your organization’s unique environment and risk profile. It serves as a starting framework to simplify compliance with CMMC requirements. 
