@@ -114,5 +114,31 @@ The **Enforcement Rule** establishes the procedures for investigating HIPAA viol
 
 HIPAA compliance is essential for healthcare organizations and their business associates. By adhering to the HIPAA Privacy, Security, Breach Notification, and Enforcement rules, organizations can ensure they safeguard patient data and avoid potential penalties. Regular audits, employee training, and a proactive approach to risk management are key strategies for maintaining compliance and protecting sensitive health information.
 
-# 
+---
+
+## Disclaimer
+
+This repository is for informational purposes only and does not constitute legal or professional advice. Please consult the respective regulatory authorities or seek professional legal counsel for official guidance.
+
+---
+
+## About the Author
+
+**Ryan Philbrick, APR, CSM, SMS,** is an experienced communications and cybersecurity professional with a background in public affairs, stakeholder engagement, and strategic communications within high-profile organizations. He has held leadership roles in cybersecurity awareness campaigns, crisis communications, and engagement strategies across diverse industries, including government and private sectors.
+
+Ryan holds an active Top Secret/SCI clearance and has served as a Chief of Staff for various cybersecurity offices, managing large-scale security initiatives, strategic communications for federal contracts, and international affairs coordination. His comprehensive operations and PR/consulting training programs have improved team performance, while his strategic communications have expanded cybersecurity awareness and outreach globally.
+
+With degrees in International Affairs and Psychology and ongoing graduate work in International Relations at Harvard University, Ryan’s multidisciplinary approach ensures these guides are practical and globally minded.
+
+---
+
+## License
+
+This repository is licensed under the [MIT License](https://github.com/philbrcr/cybersecurity-regulatory-guides?tab=MIT-1-ov-file).
+
+---
+
+## Contact
+
+Do you have questions, ideas, or feedback? Connect with me on [LinkedIn](https://www.linkedin.com/in/christopherryanphilbrick) or open an issue in the repository.
 
