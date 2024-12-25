@@ -42,3 +42,6 @@ This template helps organizations document their procedures for handling potenti
 
 * Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 * Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Note:
+This template should be reviewed and adapted to fit your organization’s unique environment and risk profile. It serves as a starting framework to simplify compliance with HIPPA requirements.
